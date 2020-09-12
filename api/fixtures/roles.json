@@ -1,0 +1,10 @@
+[
+  {
+    "model": "api.Roles",
+    "pk": 1,
+    "fields": {
+      "name": "Admin"        
+    }
+  }
+]
+  

@@ -1,0 +1,9 @@
+*.pyc
+project/*.pyc
+api/*.pyc
+files/
+*vscode
+project/settings.py
+project/local_settings.py
+project/wsgi.py
+api/migrations
